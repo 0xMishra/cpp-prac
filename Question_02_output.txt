@@ -1,0 +1,30 @@
+Roll No     : 1
+Name        :mohit
+Class       : 11
+Year        : 2
+Total Marks : 73
+
+Roll No     : 2
+Name        :akash
+Class       : 10
+Year        : 3
+Total Marks : 93
+
+Roll No     : 3
+Name        :Kundan
+Class       : 9
+Year        : 2
+Total Marks : 61
+
+Roll No     : 4
+Name        :aman
+Class       : 12
+Year        : 1
+Total Marks : 84
+
+Roll No     : 5
+Name        :himanshu
+Class       : 11
+Year        : 1
+Total Marks : 88
+
